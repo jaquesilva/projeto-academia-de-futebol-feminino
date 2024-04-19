@@ -12,8 +12,8 @@ Projeto desenvolvido para as disciplinas de JavaScript e DevOps, ministrada pelo
 
 # :hammer: Funcionalidades
 - `Funcionalidade 1`: Realizar o cadastro das atletas;
-- `Funcionalidade 2`: descrição da funcionalidade 2
-- `Funcionalidade 3`: descrição da funcionalidade 3
+- `Funcionalidade 2`: Realizar o agendamento do treino;
+- `Funcionalidade 3`: Realizar o reagendamento do treino.
 <br>
 
 # :computer: Tecnologias utilizadas
